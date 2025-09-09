@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Дарья Федорова](https://up.htmlacademy.ru/adaptive-individual/2/user/2485091).
-* Наставник: `Мария Филиппова`.
+* Наставник: [Мария Филиппова](https://htmlacademy.ru/profile/wonderjs)
 
 ---
 
